@@ -1,0 +1,25 @@
+.bg-body-tertiary{
+background-color: green !important
+}
+.nav-link{
+color: white;
+}
+h1{
+text-align: center;
+margin-top: 20px;
+color: black;
+}
+
+.cards{
+display: flex;
+justify-content: center;
+gap: 15px;
+margin-bottom: 20px;
+}
+
+.row{
+display: flex;
+align-items: center;
+font-size: 25px;
+color: black;
+}
